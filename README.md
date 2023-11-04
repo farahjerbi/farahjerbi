@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋, I'm Farah JERBI</h1>
 <h3 align="center">A Final year Software engineering student from TUNISIA</h3>
 
-- 📫 How to reach me **farah.jeerbi@gmail.com**
+- 📫 How to reach me :  **farah.jeerbi@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
