@@ -5,9 +5,10 @@
 <h4 align="left">How to reach me:</h4>
 <p align="left">
    - 📫 **Email:** [farah.jeerbi@gmail.com](mailto:farah.jeerbi@gmail.com)
-   - [LinkedIn](https://linkedin.com/in/farahjerbi)
 </p>
-
+<p align="left">
+  - <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="20" width="20" /> **LinkedIn:**(https://linkedin.com/in/farahjerbi)
+</p>
 
 
 <h4 align="left">Skills</h4>
