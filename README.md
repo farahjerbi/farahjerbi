@@ -1,11 +1,16 @@
 <h1 align="center">Hi there 👋, I'm Farah JERBI</h1>
 <h3 align="center">A Final year Software Engineering Student from TUNISIA</h3>
 
-- 📫 **Email:** [farah.jeerbi@gmail.com](mailto:farah.jeerbi@gmail.com) | 
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="20" width="20" /> [LinkedIn](https://linkedin.com/in/farahjerbi)
+
+<h4 align="left">How to reach me:</h4>
+<p align="left">
+   - 📫 **Email:** [farah.jeerbi@gmail.com](mailto:farah.jeerbi@gmail.com)
+   - [LinkedIn](https://linkedin.com/in/farahjerbi)
+</p>
 
 
-<h3 align="left">Skills</h3>
+
+<h4 align="left">Skills</h4>
 
 - 💻 **Programming Languages:** Java, Python, JavaScript, C, C#
 - 🌐 **Web Development:** HTML, CSS, React, Angular
@@ -17,13 +22,13 @@
 - 🚀 **DevOps:** Docker, Jenkins
 - 📈 **Agile Methodologies:** Scrum
 
-<h3 align="left">Interests</h3>
+<h4 align="left">Interests</h4>
 
 - 🧠 **Psychology Enthusiast:** Passionate about understanding the human mind and behavior.
 - 🎵 **Music Lover:** Enjoy creating and listening to various genres of music.
 - 📷 **Photography Enthusiast:** Love capturing moments and telling stories through photography.
 
-<h3 align="left">Education</h3>
+<h4 align="left">Education</h4>
 
 - 🎓 **Private Higher School of Engineering and Technology - ESPRIT**
   *Software Engineering*
