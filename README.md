@@ -18,8 +18,6 @@
 - 🛢️ **Databases:** MySQL, MongoDB , H2 , SQL Server
 - 🌱 **Frameworks:** Spring Boot, Laravel
 - 🗂️ **Version Control:** Git, GitHub
-- 🧰 **IDEs:** IntelliJ IDEA, Visual Studio Code
-- 📊 **Data Analysis:** NumPy
 - 🚀 **DevOps:** Docker, Jenkins
 - 📈 **Agile Methodologies:** Scrum
 
