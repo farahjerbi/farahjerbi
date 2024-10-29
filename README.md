@@ -31,7 +31,7 @@
 
 - 🎓 **Private Higher School of Engineering and Technology - ESPRIT**
   *Software Engineering*
-  *2022 - Currently*
+  *2021 - 2024*
 
 - 🎓 **Preparatory Institute for Engineering Studies of Nabeul - IPEIN**
   *Physics and Chemistry for Engineering*
