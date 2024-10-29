@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Farah JERBI</h1>
-<h3 align="center">A Final year Software Engineering Student from TUNISIA</h3>
+<h3 align="center">A Recent Software Engineering Graduate from TUNISIA</h3>
 
 
 <h4 align="left">How to reach me:</h4>
@@ -15,8 +15,8 @@
 
 - 💻 **Programming Languages:** Java, Python, JavaScript, C, C#
 - 🌐 **Web Development:** HTML, CSS, React, Angular
-- 🛢️ **Databases:** MySQL, MongoDB , H2 , SQL Server
-- 🌱 **Frameworks:** Spring Boot, Laravel
+- 🛢️ **Databases:** MySQL, MongoDB , H2 , SQL Server , PostgresQl
+- 🌱 **Frameworks:** Spring Boot, Laravel , .Net
 - 🗂️ **Version Control:** Git, GitHub
 - 🚀 **DevOps:** Docker, Jenkins
 - 📈 **Agile Methodologies:** Scrum
