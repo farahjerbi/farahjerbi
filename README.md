@@ -9,6 +9,9 @@
 <p align="left">
   - <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="20" width="20" /> **LinkedIn:** https://linkedin.com/in/farahjerbi
 </p>
+<p align="left">
+   - 🌐 **Portfolio:** <a href="https://farahjerbi.github.io/Portfolio/" target="_blank">https://farahjerbi.github.io/Portfolio/</a>
+</p>
 
 
 <h4 align="left">Skills</h4>
