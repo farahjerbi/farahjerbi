@@ -29,6 +29,8 @@
 - 🧠 **Psychology Enthusiast:** Passionate about understanding the human mind and behavior.
 - 🎵 **Music Lover:** Enjoy creating and listening to various genres of music.
 - 📷 **Photography Enthusiast:** Love capturing moments and telling stories through photography.
+- 📚 **Book Lover:** Immersed in discovering new perspectives and ideas through reading.
+
 
 <h4 align="left">Education</h4>
 
