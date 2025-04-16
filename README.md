@@ -20,8 +20,8 @@
 - 🌐 **Web Development:** HTML, CSS, React, Angular
 - 🛢️ **Databases:** MySQL, MongoDB , H2 , SQL Server , PostgresQl
 - 🌱 **Frameworks:** Spring Boot, Laravel , .Net
-- 🗂️ **Version Control:** Git, GitHub
-- 🚀 **DevOps:** Docker, Jenkins
+- 🗂️ **Version Control:** Git, GitHub , Gitlab
+- 🚀 **DevOps:** Docker, Jenkins , Gitlab CI/CD
 - 📈 **Agile Methodologies:** Scrum
 
 <h4 align="left">Interests</h4>
