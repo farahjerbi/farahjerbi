@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Farah JERBI</h1>
-<h3 align="center">A Recent Software Engineering Graduate from TUNISIA</h3>
+<h3 align="center">A Software Engineer from TUNISIA</h3>
 
 
 <h4 align="left">How to reach me:</h4>
